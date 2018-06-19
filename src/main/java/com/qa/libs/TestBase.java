@@ -7,6 +7,7 @@ public class TestBase
 	public void testc1()
 	{
 		System.out.println("sample test");
+		System.out.println("222");
 	}
 
 }
