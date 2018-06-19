@@ -8,6 +8,7 @@ public class HomePage
 	public void homePage()
 	{
 		System.out.println("HomePage");
+		System.out.println("page2");
 	}
 
 }
